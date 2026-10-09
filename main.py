@@ -1,0 +1,1 @@
+print("Ellen is a pretty lady")
